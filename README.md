@@ -73,6 +73,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Althar](https://github.com/AltharIDE/althar)** – Desktop ADE that assigns requests to coding agents and routes their changes to another model for review.
 - **[Codebuddy (codebuddy.ca)](https://www.codebuddy.ca/)** – AI coding plugin for VS Code and JetBrains IDEs that plans a multi-file change, returns it as a unified diff, and applies only the files you approve; includes repo indexing and two-way voice.
 - **[Papilot](https://github.com/PapilotAI/papilot)** – Open-source, local-first AI LaTeX editor where you annotate the compiled PDF, run coding agents (Claude Code, Codex, Cursor, Copilot, DeepSeek, OpenCode) in isolated Git worktrees, and review rendered before-and-after PDF diffs before merging. MIT licensed.
+- **[Switchdesk](https://switchdesk.dev)** – Free, open-source AI code editor that runs the coding agents you already pay for (Claude Code, Codex, Copilot, Cursor, Gemini) on your own plans.
 
 ---
 
