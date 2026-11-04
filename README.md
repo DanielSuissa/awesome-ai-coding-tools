@@ -856,6 +856,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Usage Menu](https://aiusagemenu.com)** – Free, open-source macOS menu bar and Dock app for Claude Code and Codex limits: session and weekly usage, reset times and what is filling each window. Reads local logs, no API keys or sign-in.
 - **[Mobile SSH](https://mobile-ssh.github.io/)** – Android and iOS (TestFlight beta) SSH client for managing remote Claude Code, Codex, and Gemini CLI sessions, with CLI installer plugins, tmux controls, and agent-attention alerts.
 - **[yoink](https://yoink.codes)** – Open-source CLI and macOS menu bar app that switches Claude Code, Codex, Kimi Code, Gemini and GitHub Copilot logins and connects API-key providers to 13 coding harnesses.
+- **[AUTOMATER.ai](https://automater.ai)** – A free tray app that keeps track of every AI coding agent you run: a searchable library of past sessions, a flag when an agent is waiting on you, and usage across 9 providers in one panel. Runs on Windows, macOS and Linux.
 
 ---
 
