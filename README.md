@@ -577,6 +577,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Architect](https://github.com/abhiramshaji-cyber/Architect)** – Open-source macOS app that ranks every function in a JS/TS codebase by importance, draws the call tree, and serves an architecture contract to coding agents over MCP.
 - **[symbolhop](https://github.com/stanczykwyatt/symbolhop)** – MCP server and CLI that gives coding agents go-to-definition, find-references, hover and diagnostics from the project's language servers instead of grep.
 - **[ClickHouse Loom](https://github.com/ClickHouse/loom)** – Self-hosted MCP server with a code index for coding agents (definitions, callers, change impact, PR history), plus shared long-term memory and document search, stored in ClickHouse.
+- **[jdx](https://mohammadmd1383.github.io/jdx/)** – CLI and MCP server that gives coding agents IDE answers about Java and Kotlin dependencies: members, single method bodies, usages, call hierarchy and API diffs, with bounded output to save context.
 
 ---
 
