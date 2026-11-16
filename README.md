@@ -937,6 +937,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[CoderPlan](https://coderplan.ai)** – Unified LLM API gateway providing OpenAI-compatible access to Claude, GPT, Gemini, and 30+ models. Pay-as-you-go pricing with one-line config for Claude Code, Cursor, and other AI coding tools.
 - **[Dex](https://github.com/exmergo/dex)** – Open-source agent skills for analytics engineering: read-only warehouse profiling with PII flags and verified joins, dbt models and semantic layers as reviewable diffs, and schema-drift checks.
 - **[Gemmein](https://gemmein.com/r/dir)** – Backend for web and mobile apps with sign-in, protected data, payments, and AI tools.
+- **[HiAPI](https://hiapi.ai)** – Pay-as-you-go API key for image, video, audio and text models, with OpenAI-compatible text endpoints and async task APIs for media.
 
 ---
 
