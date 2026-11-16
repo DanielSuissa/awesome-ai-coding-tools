@@ -254,6 +254,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[wdx](https://github.com/srjn45/wdx)** – Open-source daemon, CLI and terminal IDE that runs Claude Code, Codex, Cursor and Antigravity agents side by side, each in its own git worktree, with live agent states and one-command diff landing. Free, Apache-2.0.
 - **[Tesseract](https://tesseract.dev)** – Free desktop app (macOS, Windows, Linux) that runs Claude Code, Codex, Gemini CLI, OpenCode and 10 more coding agents in one window, on your own Claude or ChatGPT plan; closed-source.
 - **[ForgeMind](https://github.com/DIIIUA/ForgeMind)** – Open-source native Android AI engineering workspace (Kotlin/Compose) connecting cloud APIs, custom gateways, and LAN GGUF models (Ollama, LM Studio, llama.cpp) to dual-pane SFTP, Sora code editor with rollback diffs, Termux & Cloudflare Zero-Trust SSH, an 8-tab agent browser, and bidirectional MCP.
+- **[gpu.nz Code](https://gpu.nz/en/code)** – Free, open-source (MIT) desktop coding agent built on OpenCode for Windows, macOS and Linux; it rents a cloud GPU by the minute and runs an open model such as Qwen on it, so there is no per-token price (the app is free, the GPU is billed per minute).
 
 ---
 
