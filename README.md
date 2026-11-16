@@ -496,6 +496,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Lians check](https://github.com/ebeirne/lians-check)** – GitHub Action that checks agent-written PRs against the linked GitHub, Linear or Jira ticket and re-checks open PRs when the ticket changes. Runs on your own Anthropic key; source-available, free through Jan 31, 2027.
 - **[IonWarp](https://ionwarp.com/)** – AI code review for GitHub pull requests, with specialist reviewers such as Security and Docs, and a public benchmark of review apps and models on open-source pull requests.
 - **[austere-axi](https://github.com/MandalorianBatman/austere-axi)** – Review pages for coding agents: the agent writes a short OpenUI Lang program, the reviewer annotates table cells, diff lines or diagram nodes in a local browser tab, and the agent patches only the statements each note addresses. Free and open source (MIT).
+- **[BlitzHash Architecture Review](https://github.com/blitzhash360-web/blitzhash-architecture-review)** – Agent skill (Claude Code, Cursor, AGENTS.md) plus CLI that maps a codebase's stack and data flow and writes a plain-English report: scorecard for security, scaling, cost, backups and tests, risky spots with file/line, and a paste-ready prompt for your AI editor to fix each one. Free and open source (MIT).
 
 ---
 
