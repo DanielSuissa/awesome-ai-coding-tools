@@ -817,6 +817,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[LiveClaude](https://github.com/LeandroCannizzaro/LiveClaude)** – Open-source OS supervisor (Scheduled Task / systemd / LaunchAgent) and Avalonia desktop app with an embedded terminal to keep Claude Code Remote Control and Cursor My Machines sessions alive across crashes and reboots.
 - **[littlebrain](https://smol-ninja.github.io/little-brain/)** – A tiny app that sits in your mac menu bar and keep an eye on all your codex sessions. Free.
 - **[TodoForge](https://github.com/onurkarakus/todo-forge)** – VS Code TODO tree with optional GitHub Copilot chat tools (`#todos`, `#todo`, `#todoChanges`) and an Explain with AI command. MIT, offline, no telemetry; AI features stay off until enabled. On the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=onurkarakus.todoforge) and [Open VSX](https://open-vsx.org/extension/onurkarakus/todoforge).
+- **[Codex Mobile Workbench](https://github.com/ai-agent-workbench/codex-mobile-workbench)** – MIT-licensed, self-hosted mobile web/PWA interface for Codex projects, task follow-ups, and generated-file previews/downloads on Windows/WSL.
 
 ---
 
