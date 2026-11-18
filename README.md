@@ -1028,6 +1028,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Datacircle](https://datacircle.dev)** – Find the best GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor.
 - **[GetYouTubeTranscript MCP](https://github.com/tubeagentkit/youtube-mcp)** – Remote MCP server (`https://getyoutubetranscript.com/api/mcp`, OAuth 2.1 or API key) plus a local stdio server that give coding agents YouTube transcripts with timestamps, video and channel search, and channel and playlist listings. REST API and Python/Node SDKs also available; free tier included.
 - **[Roopedia MCP](https://roopedia.com/mcp)** – Bilingual (EN/FR) directory of MCP servers and AI developer tools with security notes, pricing breakdowns, and an open JSON API.
+- **[Spekkr](https://spekkr.com)** – Public registry of behavior-only specs for AI coding agents, with a remote MCP server to search, pull, and publish specs.
 
 ---
 
