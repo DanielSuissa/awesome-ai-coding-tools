@@ -258,6 +258,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Vesper](https://github.com/Kernel-Hunter/vesper)** – Open-source coding agent for the terminal and a desktop app that share one SQLite session store. Runs your tests after each change; 17 providers or offline with Ollama.
 - **[VEX](https://github.com/umairkhan2582/vex)** – Browser-based AI code-synthesis workspace that turns prompts into application previews.
 - **[REX](https://classeve.com/rex)** – A coding agent that runs your whole Windows PC. Say what you need, by voice or text, and REX writes the code, works the applications already on your PC, and checks the result before it says done.
+- **[OpenAgentd](https://github.com/lthoangg/openagentd)** – Open-source desktop app and CLI for a local coding agent that shows every tool call, diff and session cost. Works with your own model keys or local models, with phone apps over an end-to-end encrypted relay.
 
 ---
 
