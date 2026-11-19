@@ -831,6 +831,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Anvil](https://xrosswarden.com/anvil)** – Local-first memory for AI coding assistants. Keeps your rules, skills and personas in an encrypted database on your own machine and applies them across Claude Code, Codex/ChatGPT, Copilot, LM Studio, Cline and opencode. Free, no account. macOS/Windows/Linux.
 - **[Yappr](https://www.useyappr.com/?utm_source=awesome-ai-coding-tools)** – macOS app that puts your Claude Code and Codex sessions in the MacBook notch: see which agent is waiting on you and answer its question or permission there by click or voice, with push-to-talk dictation that turns speech into clean prompts. Apple silicon, macOS 15+. Free tier.
 - **[Kombinat](https://github.com/Danilqa/kombinat)** – Open-source (MIT) daemon and CLI that runs Claude Code, Codex or any other CLI agent on a cron schedule or webhook. Each routine is a markdown file in a git repo, run on your own macOS or Linux machine with a local web dashboard, terminal UI and run history.
+- **[L2Cache Token Tax Calculator](https://l2cache.app/en/tools/claude-code-cache-tax)** – Free in-browser calculator that reads your Claude Code `~/.claude/projects` session files and shows how much spend and usage limit went to cold prompt-cache resumes, as a shareable card. Nothing is uploaded.
+- **[L2Cache Session Viewer](https://l2cache.app/en/tools/claude-session-viewer)** – Free in-browser viewer for Claude Code, Codex, GitHub Copilot CLI and Grok Build session logs: search prompts and tool calls, audit cold resumes, copy resume commands. Runs locally; nothing is uploaded.
 
 ---
 
