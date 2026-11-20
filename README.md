@@ -264,6 +264,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Tenter](https://tenter.build)** – macOS desktop app for running Claude Code and Codex where one task can span several repositories, each in its own git worktree with its own branch and pull request, and tasks run in parallel. Free, closed source.
 - **[RemoDeck](https://github.com/guuguo/remodeck)** – MIT-licensed, self-hosted desktop and mobile remote control console (formerly Agent Control) for local Claude Code, Codex (with multi-account quota tracking), Antigravity, Grok, and Qoder CLI sessions. Features strictly read-only upstream indexing, 5-second QR mobile access (Cloudflare Quick Tunnel, Tailscale Funnel, or Docker relay), hands-free voice approvals, a 3D live workspace view, and native macOS/Windows/Linux desktop shells.
 - **[Orchevia](https://github.com/iazaran/orchevia)** – Local, open-source desktop app that runs Claude Code and Codex CLIs as visual workflows with approval gates, tests, parallel reviews, bounded fix loops and draft PRs.
+- **[Turnloom](https://github.com/bhaskargurram-ai/turnloom)** – Open-source terminal coding agent with a local web UI; folds old tool output out of the prompt but keeps it recoverable, and every edit is a diff you approve and can undo. Works with any OpenAI-compatible model.
 
 ---
 
