@@ -364,6 +364,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[ctx-receipt](https://github.com/Jenoyrex/ctx-receipt)** – Token receipt of what AI coding agents (Claude Code, Codex CLI, Cursor, Gemini CLI) pre-load into context, with a CI budget check.
 - **[Skill Porter](https://github.com/Shanmukh-l33t/skillporter)** – Package manager for AI agent skills; installs, scans and locks SKILL.md bundles across 19 coding-agent harnesses with a reproducible lockfile.
 - **[Payo](https://github.com/uttam-gelot/payo)** – Interactive CLI that asks about your stack once, then writes AGENTS.md, project skills, and git and agent hooks that block a push when the agent skips the rules. Works with Claude Code, Cursor, Codex and Copilot. Free, MIT.
+- **[agy-swap](https://agy-swap.aklkbqx.com/)** – Open-source terminal UI and CLI for switching Google Antigravity CLI and IDE accounts, checking 5-hour and weekly Gemini, Claude/GPT, and Argon quotas with local reset times, and preventing background token overwrites. Free, MIT.
 
 ---
 
