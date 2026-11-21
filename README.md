@@ -950,6 +950,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[SIwithin](https://github.com/metahumansworld/SIwithin)** – Runs Claude Code unattended inside a macOS sandbox-exec fence (home refused whole), under a true-dollar budget enforced three times, with one ledger line and a verifiable sha256 receipt per run.
 - **[Tuvio](https://tuvio.dev/)** – Security scans for AI-built apps, with AI-reviewed fix prompts for your coding assistant.
 - **[GuardLink](https://github.com/Bugb-Technologies/guardlink)** – Open-source (MIT) threat modeling as code: security annotations in source comments form the threat model, which is validated and diffed in CI, exported as SARIF, and kept current by AI coding agents (Claude Code, Cursor, Codex) through its MCP server and agent instruction files.
+- **[How Could I Be Hacked](https://github.com/sandhiveio/How-Could-I-Be-Hacked)** – Coding-agent skill that adapts security checks from open-source reviews to PR diffs and reports local results and coverage beyond existing tests.
 
 ---
 
