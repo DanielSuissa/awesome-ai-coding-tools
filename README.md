@@ -843,6 +843,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[L2Cache Token Tax Calculator](https://l2cache.app/en/tools/claude-code-cache-tax)** – Free in-browser calculator that reads your Claude Code `~/.claude/projects` session files and shows how much spend and usage limit went to cold prompt-cache resumes, as a shareable card. Nothing is uploaded.
 - **[L2Cache Session Viewer](https://l2cache.app/en/tools/claude-session-viewer)** – Free in-browser viewer for Claude Code, Codex, GitHub Copilot CLI and Grok Build session logs: search prompts and tool calls, audit cold resumes, copy resume commands. Runs locally; nothing is uploaded.
 - **[speak-up](https://github.com/yoondahoon/speak-up)** – Free Claude Code / Codex plugin that reads replies aloud with OS voices (no API key), auto-detects 48 languages, and stops on any keypress.
+- **[Sharpen](https://github.com/melthond/sharpen)** – Claude Code plugin that, when turned on, rewrites each eligible prompt into a specific one using the conversation, the codebase and the installed skills, agents and MCP tools, and shows it for approval before any work starts.
 
 ---
 
