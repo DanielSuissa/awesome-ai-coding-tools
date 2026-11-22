@@ -1053,6 +1053,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Roopedia MCP](https://roopedia.com/mcp)** – Bilingual (EN/FR) directory of MCP servers and AI developer tools with security notes, pricing breakdowns, and an open JSON API.
 - **[Spekkr](https://spekkr.com)** – Public registry of behavior-only specs for AI coding agents, with a remote MCP server to search, pull, and publish specs.
 - **[I2v.ai](https://github.com/i2v-ai/i2v-mcp)** – Hosted and local MCP server for image and video generation across 12 image and 16 video models, with the USD cost quoted before every paid task and a caller-set spending ceiling. Remote endpoint with OAuth 2.1 at https://i2v.ai/api/mcp, or `npx -y @i2v-ai/cli mcp` for stdio.
+- **[todox](https://www.todox.dev)** – MCP server that keeps a task log of decisions, dead ends and handoffs for Claude Code, Codex and OpenCode, read at the start of each session.
 
 ---
 
