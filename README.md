@@ -266,6 +266,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Orchevia](https://github.com/iazaran/orchevia)** – Local, open-source desktop app that runs Claude Code and Codex CLIs as visual workflows with approval gates, tests, parallel reviews, bounded fix loops and draft PRs.
 - **[Turnloom](https://github.com/bhaskargurram-ai/turnloom)** – Open-source terminal coding agent with a local web UI; folds old tool output out of the prompt but keeps it recoverable, and every edit is a diff you approve and can undo. Works with any OpenAI-compatible model.
 - **[Enconvo](https://enconvo.com)** – Desktop app that runs Claude Code and Codex as chats with your own login, gives each chat its own git worktree and dev-server ports, and checks the result in native apps and your browser.
+- **[Fixa](https://fixa.dev/)** – Cloud AI software engineer that takes a GitHub issue (via a label), a Slack message, or a Linear issue, writes and tests the code in its own sandbox machine, and opens a pull request. Free plan, and free on public repos with 50+ stars.
 
 ---
 
