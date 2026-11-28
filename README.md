@@ -451,6 +451,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[DESIGN:OS](https://github.com/jangtrinh/design-os)** – Free design CLI for Claude Code, Codex and Antigravity: describe the UI in plain words, get production-grade web and SwiftUI output through deterministic taste gates. Source-available (PolyForm Shield), nothing sold.
 - **[Orbital Supply](https://orbital.supply/?utm_source=awesome-ai-coding)** – Website prompts and code to paste into AI coding tools. Free tier available.
 - **[Brilliant](https://brilliant.design/)** – Free vector design tool with an MCP server, so Claude Code, Cursor, and Codex create and edit real, editable designs on a canvas you share with them.
+- **[Kite](https://kite.new/)** – Design tool your AI agents and your team share; agents connect via a hosted MCP server and draw editable layers. Free plan.
 
 ---
 ## Code Review and Refactoring
