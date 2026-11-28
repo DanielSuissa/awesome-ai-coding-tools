@@ -576,6 +576,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[benchmine](https://github.com/hamarshehmhmd/benchmine)** – Open-source CLI that turns your repo's own git history into a private benchmark for AI coding agents (Claude Code, Codex, Gemini CLI, Cursor CLI, Aider): validated fail-to-pass tasks graded by hidden tests, pass rate with confidence intervals and cost per run, and a regression check after model updates.
 - **[e2e](https://github.com/e2e-inc/e2e)** – Open-source end-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions.
 - **[Momentic](https://momentic.ai)** – End-to-end testing for web apps in Chromium and mobile apps on hosted iOS simulators and Android emulators, with YAML tests and an MCP server that lets coding agents write, run, and triage them.
+- **[VibeRaven](https://github.com/ohad6k/VibeRaven)** – Gives coding agents a local PostgreSQL race test with replay and reviews Supabase migrations for RLS and Data API grant gaps.
 
 ---
 
