@@ -348,6 +348,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Nightshift](https://github.com/orwa-mahmoud/nightshift)** – Plugin for Claude Code, Codex and Cursor that runs long agent work as a shift: a persistent punch list, a Stop-hook gate against premature clock-out, recovery of failed sessions, and per-item receipts with tokens and time.
 - **[agent-assh](https://github.com/izzzzzi/agent-assh)** – SSH CLI for coding agents that runs remote commands in persistent tmux sessions and returns paginated JSON, so server logs stay out of the context window.
 - **[Revo](https://github.com/shyringo/revo)** – Terminal agent harness that opens its own work cycle without a prompt, keeps one durable memory across restarts, and contacts the user only when it has a reason (5-minute cooldown, 4 per hour).
+- **[ctx-receipt](https://github.com/Jenoyrex/ctx-receipt)** – Token receipt of what AI coding agents (Claude Code, Codex CLI, Cursor, Gemini CLI) pre-load into context, with a CI budget check.
 
 ---
 
