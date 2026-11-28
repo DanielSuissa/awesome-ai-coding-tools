@@ -400,6 +400,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Kleap](https://kleap.co/)** – AI website and app builder with hosting, database, auth and domains included; sites can also be built and edited by your own agent through its MCP server and [CLI](https://github.com/kleaphq/cli). Free tier available.
 - **[Uvilno](https://uvilno.com)** – Conversational website and app builder with live previews, project-scoped hosted data and authentication, and optional source export.
 - **[Delta AI](https://app.delta-ai.dev)** – Architecture-first backend generator: describe a product and it designs the system first — domains, service boundaries and contracts — then writes a specification per service and implements it spec-driven, opening one pull request per service in your GitHub org. Free first architecture.
+- **[PlayDrop](https://www.playdrop.ai/create)** – Make a browser game by describing it, or publish one your AI app made, and share it with a link.
 
 ---
 
