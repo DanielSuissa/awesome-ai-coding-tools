@@ -419,6 +419,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Caret](https://github.com/precious112/caret-desktop)** – Open-source desktop AI design tool that lives in your repo: real React in `.caret/`, rendered live on a canvas you can click and edit, and synced into your app by your own coding agent (Claude Code, Codex) over MCP.
 - **[DESIGN:OS](https://github.com/jangtrinh/design-os)** – Free design CLI for Claude Code, Codex and Antigravity: describe the UI in plain words, get production-grade web and SwiftUI output through deterministic taste gates. Source-available (PolyForm Shield), nothing sold.
 - **[Orbital Supply](https://orbital.supply/?utm_source=awesome-ai-coding)** – Website prompts and code to paste into AI coding tools. Free tier available.
+- **[Brilliant](https://brilliant.design/)** – Free vector design tool with an MCP server, so Claude Code, Cursor, and Codex create and edit real, editable designs on a canvas you share with them.
 
 ---
 ## Code Review and Refactoring
