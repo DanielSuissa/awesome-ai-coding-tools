@@ -257,6 +257,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[gpu.nz Code](https://gpu.nz/en/code)** – Free, open-source (MIT) desktop coding agent built on OpenCode for Windows, macOS and Linux; it rents a cloud GPU by the minute and runs an open model such as Qwen on it, so there is no per-token price (the app is free, the GPU is billed per minute).
 - **[Vesper](https://github.com/Kernel-Hunter/vesper)** – Open-source coding agent for the terminal and a desktop app that share one SQLite session store. Runs your tests after each change; 17 providers or offline with Ollama.
 - **[VEX](https://github.com/umairkhan2582/vex)** – Browser-based AI code-synthesis workspace that turns prompts into application previews.
+- **[REX](https://classeve.com/rex)** – A coding agent that runs your whole Windows PC. Say what you need, by voice or text, and REX writes the code, works the applications already on your PC, and checks the result before it says done.
 
 ---
 
