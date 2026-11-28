@@ -849,6 +849,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[L2Cache Session Viewer](https://l2cache.app/en/tools/claude-session-viewer)** – Free in-browser viewer for Claude Code, Codex, GitHub Copilot CLI and Grok Build session logs: search prompts and tool calls, audit cold resumes, copy resume commands. Runs locally; nothing is uploaded.
 - **[speak-up](https://github.com/yoondahoon/speak-up)** – Free Claude Code / Codex plugin that reads replies aloud with OS voices (no API key), auto-detects 48 languages, and stops on any keypress.
 - **[Sharpen](https://github.com/melthond/sharpen)** – Claude Code plugin that, when turned on, rewrites each eligible prompt into a specific one using the conversation, the codebase and the installed skills, agents and MCP tools, and shows it for approval before any work starts.
+- **[AI Usage Menu](https://aiusagemenu.com)** – Free, open-source macOS menu bar and Dock app for Claude Code and Codex limits: session and weekly usage, reset times and what is filling each window. Reads local logs, no API keys or sign-in.
 
 ---
 
