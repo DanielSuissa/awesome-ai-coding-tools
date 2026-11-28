@@ -71,6 +71,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AstraCode](https://astracode.io/)** – AI-native code editor whose agent runs your tests and proves them before it reports, with AstraOne choosing the model and a CLI for terminals, CI, JetBrains and Zed.
 - **[Easy Mode for Claude Code](https://github.com/paragpandyareal/easy-mode-for-claude-code)** – Free, open-source, Windows-first GUI that runs the official Claude Code CLI, with Undo save points, plain-English permission prompts and a "Just results" view for non-technical users.
 - **[Althar](https://github.com/AltharIDE/althar)** – Desktop ADE that assigns requests to coding agents and routes their changes to another model for review.
+- **[Codebuddy (codebuddy.ca)](https://www.codebuddy.ca/)** – AI coding plugin for VS Code and JetBrains IDEs that plans a multi-file change, returns it as a unified diff, and applies only the files you approve; includes repo indexing and two-way voice.
 
 ---
 
