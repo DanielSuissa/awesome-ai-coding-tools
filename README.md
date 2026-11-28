@@ -248,6 +248,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[SpecWithCode](https://github.com/anton-abyzov/specwithcode)** – Free, source-available desktop app that runs Claude Code, Codex, Copilot, Grok, Cursor, OpenCode and Gemini CLI side by side, with a coordinator that hands tasks to workers on different providers and switches provider when one hits its usage limit.
 - **[Valo](https://getvalo.dev)** – The workspace for AI. Runs Claude Code, Codex, Gemini CLI and other AI agents side by side in real terminals, with all your projects in one window. Valo MemoryCode, Valo Search, the Map, Nerve Map, Pressure Points, context control, Cross-Chat and multi-agent orchestration. Free plan. Windows, macOS, Linux.
 - **[Sesori](https://github.com/sesori-ai/sesori_apps_monorepo)** – Notifies you the moment a coding agent stops on a question or permission prompt, so you can answer from your phone instead of leaving it idle. One free desktop (macOS, Linux) and iOS/Android app for Claude Code, Codex, OpenCode, GitHub Copilot, Cursor, Pi, OMP, Hermes, DeepSeek and Grok Build sessions on your own computer; code stays there and the end-to-end encrypted relay sees only ciphertext. Source-available (FSL-1.1-ALv2).
+- **[Kraft](https://github.com/itsOmidKarami/kraft)** – Open-source local orchestrator that takes a coding agent from spec to pull request in its own git worktree, running steps in order from a YAML chain file and stopping for a person to approve the spec, the plan and the final review.
 
 ---
 
