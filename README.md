@@ -1062,6 +1062,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[todox](https://www.todox.dev)** – MCP server that keeps a task log of decisions, dead ends and handoffs for Claude Code, Codex and OpenCode, read at the start of each session.
 - **[Calyban MCP](https://calyban.com/calyban-mcp)** – Free remote MCP server, no key needed, that searches a catalog of the 4,000 most popular MCP servers, skills and plugins and says which coding agents each one works with.
 - **[OmniForge Launch Audit MCP](https://github.com/zColdWater/mcp-launch-audit)** – Open-source read-only MCP server (remote Streamable-HTTP at `https://omnipulse-x402.appwrite.network/mcp` plus local stdio) exposing 5 pre-launch checks for coding agents: client-side JS secret leaks, Mozilla Observatory headers, SPF/DKIM/DMARC DNS auth, `/llms.txt` & AI crawlers, and 78-TLD + USPTO brand clearance. Zero API key required.
+- **[LeadMerlin](https://github.com/HalberdLLC/leadmerlin-mcp)** – MCP server that searches local businesses (Google Maps) by niche and city and enriches each one with owner name, emails checked against the mail server, phone line type and website tech. Remote endpoint `https://api.leadmerlin.com/mcp` or a zero-dependency stdio bridge via `npx -y github:HalberdLLC/leadmerlin-mcp`. API key; 100 free leads on signup, `check_website_tech` free without a key. MIT.
 
 ---
 
