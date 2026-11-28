@@ -250,6 +250,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Sesori](https://github.com/sesori-ai/sesori_apps_monorepo)** – Notifies you the moment a coding agent stops on a question or permission prompt, so you can answer from your phone instead of leaving it idle. One free desktop (macOS, Linux) and iOS/Android app for Claude Code, Codex, OpenCode, GitHub Copilot, Cursor, Pi, OMP, Hermes, DeepSeek and Grok Build sessions on your own computer; code stays there and the end-to-end encrypted relay sees only ciphertext. Source-available (FSL-1.1-ALv2).
 - **[Kraft](https://github.com/itsOmidKarami/kraft)** – Open-source local orchestrator that takes a coding agent from spec to pull request in its own git worktree, running steps in order from a YAML chain file and stopping for a person to approve the spec, the plan and the final review.
 - **[wdx](https://github.com/srjn45/wdx)** – Open-source daemon, CLI and terminal IDE that runs Claude Code, Codex, Cursor and Antigravity agents side by side, each in its own git worktree, with live agent states and one-command diff landing. Free, Apache-2.0.
+- **[Tesseract](https://tesseract.dev)** – Free desktop app (macOS, Windows, Linux) that runs Claude Code, Codex, Gemini CLI, OpenCode and 10 more coding agents in one window, on your own Claude or ChatGPT plan; closed-source.
 
 ---
 
