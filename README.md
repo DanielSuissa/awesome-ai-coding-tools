@@ -350,6 +350,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[agent-assh](https://github.com/izzzzzi/agent-assh)** – SSH CLI for coding agents that runs remote commands in persistent tmux sessions and returns paginated JSON, so server logs stay out of the context window.
 - **[Revo](https://github.com/shyringo/revo)** – Terminal agent harness that opens its own work cycle without a prompt, keeps one durable memory across restarts, and contacts the user only when it has a reason (5-minute cooldown, 4 per hour).
 - **[ctx-receipt](https://github.com/Jenoyrex/ctx-receipt)** – Token receipt of what AI coding agents (Claude Code, Codex CLI, Cursor, Gemini CLI) pre-load into context, with a CI budget check.
+- **[Skill Porter](https://github.com/Shanmukh-l33t/skillporter)** – Package manager for AI agent skills; installs, scans and locks SKILL.md bundles across 19 coding-agent harnesses with a reproducible lockfile.
 
 ---
 
