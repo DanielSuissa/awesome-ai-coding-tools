@@ -268,6 +268,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Enconvo](https://enconvo.com)** – Desktop app that runs Claude Code and Codex as chats with your own login, gives each chat its own git worktree and dev-server ports, and checks the result in native apps and your browser.
 - **[Fixa](https://fixa.dev/)** – Cloud AI software engineer that takes a GitHub issue (via a label), a Slack message, or a Linear issue, writes and tests the code in its own sandbox machine, and opens a pull request. Free plan, and free on public repos with 50+ stars.
 - **[Olympus Coder](https://github.com/martianacademy/olympus-coder)** – Open-source (Apache-2.0) desktop app and zero-Electron headless VPS server for Claude Code, Codex, Antigravity, Ollama, and 18+ ACP coding agents. Includes shared project memory, parallel sub-session orchestration, isolated Git worktrees, per-hunk diff review, 1-click fresh context carryover, embedded terminals, and phone/browser access over local LAN (HTTP) or an E2E-encrypted relay.
+- **[Codealong](https://github.com/codealong/codealong)** – Free, open-source (Apache-2.0) desktop app that tracks every Claude Code, Codex, OpenCode, Antigravity, and Cursor session already running on your machine by repo, worktree, and PR, with notch approvals, automated draft PR reviews, and multi-machine sync.
 
 ---
 
