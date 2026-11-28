@@ -554,6 +554,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[LayerMap](https://github.com/coffeecoproject/layermap)** – Local MCP server and Claude Code/Codex plugin that gives coding agents a compiler-resolved call graph of TS/JS, Go, Python and Java, tracing a function's callers to HTTP routes in one call.
 - **[Architect](https://github.com/abhiramshaji-cyber/Architect)** – Open-source macOS app that ranks every function in a JS/TS codebase by importance, draws the call tree, and serves an architecture contract to coding agents over MCP.
 - **[symbolhop](https://github.com/stanczykwyatt/symbolhop)** – MCP server and CLI that gives coding agents go-to-definition, find-references, hover and diagnostics from the project's language servers instead of grep.
+- **[ClickHouse Loom](https://github.com/ClickHouse/loom)** – Self-hosted MCP server with a code index for coding agents (definitions, callers, change impact, PR history), plus shared long-term memory and document search, stored in ClickHouse.
 
 ---
 
