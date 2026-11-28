@@ -270,6 +270,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Olympus Coder](https://github.com/martianacademy/olympus-coder)** – Open-source (Apache-2.0) desktop app and zero-Electron headless VPS server for Claude Code, Codex, Antigravity, Ollama, and 18+ ACP coding agents. Includes shared project memory, parallel sub-session orchestration, isolated Git worktrees, per-hunk diff review, 1-click fresh context carryover, embedded terminals, and phone/browser access over local LAN (HTTP) or an E2E-encrypted relay.
 - **[Codealong](https://github.com/codealong/codealong)** – Free, open-source (Apache-2.0) desktop app that tracks every Claude Code, Codex, OpenCode, Antigravity, and Cursor session already running on your machine by repo, worktree, and PR, with notch approvals, automated draft PR reviews, and multi-machine sync.
 - **[Vis](https://github.com/Blockether/vis)** – Open-source coding agent you adapt to your tools and measure on your own tasks.
+- **[Silos](https://silosplatform.com)** – Open-source, self-hosted web console that runs Claude Code and OpenCode agents as named identities, with the real CLI in the browser, a shared inbox, heartbeats and scheduled automations.
 
 ---
 
