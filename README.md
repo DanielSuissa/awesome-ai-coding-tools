@@ -834,6 +834,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Kombinat](https://github.com/Danilqa/kombinat)** – Open-source (MIT) daemon and CLI that runs Claude Code, Codex or any other CLI agent on a cron schedule or webhook. Each routine is a markdown file in a git repo, run on your own macOS or Linux machine with a local web dashboard, terminal UI and run history.
 - **[L2Cache Token Tax Calculator](https://l2cache.app/en/tools/claude-code-cache-tax)** – Free in-browser calculator that reads your Claude Code `~/.claude/projects` session files and shows how much spend and usage limit went to cold prompt-cache resumes, as a shareable card. Nothing is uploaded.
 - **[L2Cache Session Viewer](https://l2cache.app/en/tools/claude-session-viewer)** – Free in-browser viewer for Claude Code, Codex, GitHub Copilot CLI and Grok Build session logs: search prompts and tool calls, audit cold resumes, copy resume commands. Runs locally; nothing is uploaded.
+- **[speak-up](https://github.com/yoondahoon/speak-up)** – Free Claude Code / Codex plugin that reads replies aloud with OS voices (no API key), auto-detects 48 languages, and stops on any keypress.
 
 ---
 
