@@ -852,6 +852,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[speak-up](https://github.com/yoondahoon/speak-up)** – Free Claude Code / Codex plugin that reads replies aloud with OS voices (no API key), auto-detects 48 languages, and stops on any keypress.
 - **[Sharpen](https://github.com/melthond/sharpen)** – Claude Code plugin that, when turned on, rewrites each eligible prompt into a specific one using the conversation, the codebase and the installed skills, agents and MCP tools, and shows it for approval before any work starts.
 - **[AI Usage Menu](https://aiusagemenu.com)** – Free, open-source macOS menu bar and Dock app for Claude Code and Codex limits: session and weekly usage, reset times and what is filling each window. Reads local logs, no API keys or sign-in.
+- **[Mobile SSH](https://mobile-ssh.github.io/)** – Android and iOS (TestFlight beta) SSH client for managing remote Claude Code, Codex, and Gemini CLI sessions, with CLI installer plugins, tmux controls, and agent-attention alerts.
 
 ---
 
