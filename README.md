@@ -809,6 +809,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AutoRouter](https://autorouter.com)** – Mac app that adds 20+ models to Codex and Claude Code and picks the model for each coding task, using your ChatGPT and Claude plans first.
 - **[Hopback](https://github.com/aaronsuns/hopback)** – Open-source macOS menu bar app for running several Claude Code sessions in VS Code: shows which session is waiting for you, jumps back to any open or past session with a hotkey, and searches past sessions or asks Claude about them.
 - **[sessionwiki](https://github.com/necroz/sessionwiki)** – Compiles AI coding session transcripts from 7 agents (Claude Code, Codex CLI, Cursor, Gemini CLI, Copilot, ZCode, OpenCode) into a searchable local wiki with a static site and a 15-tool MCP server, so agents reuse past decisions and fixes instead of re-solving them. Local-first, no telemetry, free and open source (MIT).
+- **[LiveClaude](https://github.com/LeandroCannizzaro/LiveClaude)** – Open-source OS supervisor (Scheduled Task / systemd / LaunchAgent) and Avalonia desktop app with an embedded terminal to keep Claude Code Remote Control and Cursor My Machines sessions alive across crashes and reboots.
 
 ---
 
