@@ -271,6 +271,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codealong](https://github.com/codealong/codealong)** – Free, open-source (Apache-2.0) desktop app that tracks every Claude Code, Codex, OpenCode, Antigravity, and Cursor session already running on your machine by repo, worktree, and PR, with notch approvals, automated draft PR reviews, and multi-machine sync.
 - **[Vis](https://github.com/Blockether/vis)** – Open-source coding agent you adapt to your tools and measure on your own tasks.
 - **[Silos](https://silosplatform.com)** – Open-source, self-hosted web console that runs Claude Code and OpenCode agents as named identities, with the real CLI in the browser, a shared inbox, heartbeats and scheduled automations.
+- **[Benzi](https://github.com/oooscoos/Benzi)** – Compiler-backed coding agent that compiles your codebase into a resolved, queryable map first, then reads, edits and verifies code through it. 78.2% on SWE-bench Verified.
 
 ---
 
