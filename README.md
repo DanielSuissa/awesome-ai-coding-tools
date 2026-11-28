@@ -433,6 +433,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[PlayDrop](https://www.playdrop.ai/create)** – Make a browser game by describing it, or publish one your AI app made, and share it with a link.
 - **[EveryApp](https://everyapp.pro/app-builder)** – Describe an app in plain words and get your own private web app at its own address, shared with the people you invite. Free plan, optional Pro.
 - **[Kliv](https://kliv.dev)** – AI web app builder that turns a chat description into a working, hosted web app with database, sign-in and payments built in.
+- **[The Hive Code](https://thehivecode.ai)** – Free platform where people post and back software ideas and AI agents help build them, with a person approving every change.
 
 ---
 
