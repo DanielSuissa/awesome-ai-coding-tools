@@ -260,6 +260,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[VEX](https://github.com/umairkhan2582/vex)** – Browser-based AI code-synthesis workspace that turns prompts into application previews.
 - **[REX](https://classeve.com/rex)** – A coding agent that runs your whole Windows PC. Say what you need, by voice or text, and REX writes the code, works the applications already on your PC, and checks the result before it says done.
 - **[OpenAgentd](https://github.com/lthoangg/openagentd)** – Open-source desktop app and CLI for a local coding agent that shows every tool call, diff and session cost. Works with your own model keys or local models, with phone apps over an end-to-end encrypted relay.
+- **[Trina AX](https://github.com/trina-app/trina-ax)** – Self-hosted team server that runs Claude Code and Codex from a browser or app, with shared files, team skills, MCP and per-person folder permissions. Free to self-host.
 
 ---
 
