@@ -823,6 +823,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codex Mobile Workbench](https://github.com/ai-agent-workbench/codex-mobile-workbench)** – MIT-licensed, self-hosted mobile web/PWA interface for Codex projects, task follow-ups, and generated-file previews/downloads on Windows/WSL.
 - **[Adaptive Agentic SDD](https://github.com/seok-jun/adaptive-agentic-sdd)** – Open-source risk-based spec-driven workflow for Claude Code and Codex on existing codebases, with review depth scaled to each change and human-authorized merges for high-risk work.
 - **[Anvil](https://xrosswarden.com/anvil)** – Local-first memory for AI coding assistants. Keeps your rules, skills and personas in an encrypted database on your own machine and applies them across Claude Code, Codex/ChatGPT, Copilot, LM Studio, Cline and opencode. Free, no account. macOS/Windows/Linux.
+- **[Yappr](https://www.useyappr.com/?utm_source=awesome-ai-coding-tools)** – macOS app that puts your Claude Code and Codex sessions in the MacBook notch: see which agent is waiting on you and answer its question or permission there by click or voice, with push-to-talk dictation that turns speech into clean prompts. Apple silicon, macOS 15+. Free tier.
 
 ---
 
