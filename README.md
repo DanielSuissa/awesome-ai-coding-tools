@@ -814,6 +814,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[sessionwiki](https://github.com/necroz/sessionwiki)** – Compiles AI coding session transcripts from 7 agents (Claude Code, Codex CLI, Cursor, Gemini CLI, Copilot, ZCode, OpenCode) into a searchable local wiki with a static site and a 15-tool MCP server, so agents reuse past decisions and fixes instead of re-solving them. Local-first, no telemetry, free and open source (MIT).
 - **[LiveClaude](https://github.com/LeandroCannizzaro/LiveClaude)** – Open-source OS supervisor (Scheduled Task / systemd / LaunchAgent) and Avalonia desktop app with an embedded terminal to keep Claude Code Remote Control and Cursor My Machines sessions alive across crashes and reboots.
 - **[littlebrain](https://smol-ninja.github.io/little-brain/)** – A tiny app that sits in your mac menu bar and keep an eye on all your codex sessions. Free.
+- **[TodoForge](https://github.com/onurkarakus/todo-forge)** – VS Code TODO tree with optional GitHub Copilot chat tools (`#todos`, `#todo`, `#todoChanges`) and an Explain with AI command. MIT, offline, no telemetry; AI features stay off until enabled. On the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=onurkarakus.todoforge) and [Open VSX](https://open-vsx.org/extension/onurkarakus/todoforge).
 
 ---
 
