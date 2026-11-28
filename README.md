@@ -262,6 +262,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OpenAgentd](https://github.com/lthoangg/openagentd)** – Open-source desktop app and CLI for a local coding agent that shows every tool call, diff and session cost. Works with your own model keys or local models, with phone apps over an end-to-end encrypted relay.
 - **[Trina AX](https://github.com/trina-app/trina-ax)** – Self-hosted team server that runs Claude Code and Codex from a browser or app, with shared files, team skills, MCP and per-person folder permissions. Free to self-host.
 - **[Tenter](https://tenter.build)** – macOS desktop app for running Claude Code and Codex where one task can span several repositories, each in its own git worktree with its own branch and pull request, and tasks run in parallel. Free, closed source.
+- **[RemoDeck](https://github.com/guuguo/remodeck)** – MIT-licensed, self-hosted desktop and mobile remote control console (formerly Agent Control) for local Claude Code, Codex (with multi-account quota tracking), Antigravity, Grok, and Qoder CLI sessions. Features strictly read-only upstream indexing, 5-second QR mobile access (Cloudflare Quick Tunnel, Tailscale Funnel, or Docker relay), hands-free voice approvals, a 3D live workspace view, and native macOS/Windows/Linux desktop shells.
 
 ---
 
